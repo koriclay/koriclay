@@ -1,0 +1,101 @@
+/*styles go here*/
+
+/*p {
+  color: red;
+}*/
+
+
+p {
+  color: gray;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+body {
+  background-color: #eafaea;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+
+img {
+  /*margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: 500;
+  margin: 0 auto 0 auto; */
+  display: block;
+  width: 40%;
+  margin-left: 365px;
+}
+
+.caption {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  text-align: right;
+  margin-top: 5px;
+}
+
+
+#nav {
+  padding: 0;
+}
+
+#nav li {
+  list-style-type: none;
+  display: inline;
+}
+
+
+#nav a:link {
+  display: block;
+  color: #yellow;
+  background-color: #yellow;
+  font-weight: bold;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 50px;
+  text-decoration: none;
+}
+
+#nav a:hover, #nav a:active {
+  background-color: #pink;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+{}
